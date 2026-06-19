@@ -113,7 +113,7 @@ Choice-Based Missions
 # PLAYER STATS
 
 ```txt
-HTML         ██████████ 80%
+HTML         █████████░ 80%
 
 CSS          ███████░░░ 60%
 
