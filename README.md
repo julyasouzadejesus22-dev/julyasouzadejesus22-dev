@@ -1,15 +1,16 @@
 <div align="center">
 
 
+<img width="800" height="400" alt="deadpool-heart" src="https://github.com/user-attachments/assets/ce51a02f-606e-4a01-a5d6-f1c4d2c87714" />
 
-<img width="540" height="400" alt="Capuz Vermelho" src="https://github.com/user-attachments/assets/8b2c8cae-b117-4d9d-891c-64a156dec511" />
 
 
-<img width="824" alt="Shadow The Hedgehog" src="https://github.com/user-attachments/assets/3ef6dc69-9e86-482a-bbed-e8a8c80d90d9">
+
 
 # SOUZA.EXE
 
 ```txt
+
 ====================================
 PLAYER STATUS
 ====================================
@@ -153,9 +154,10 @@ Creativity   ██████████ 100%
 
 <div align="center">
 
-> "Live and Learn."
+> "game over." </br>
+  "Deadpool Wins"
+<img width="960" height="540" alt="tumblr_o16uh2qIgm1v4of0co1_1280" src="https://github.com/user-attachments/assets/34f09c18-0a84-4b85-9352-9e5e9ca6f716" />
 
-<img width="498" height="206" alt="Movie Shadow Shadow Movie GIF - Movie shadow Shadow movie Movie - Discover   Share GIFs" src="https://github.com/user-attachments/assets/989cb4d9-74a5-4fda-b32a-8fa925f95eca" />
 
 
 </div>
